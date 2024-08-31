@@ -1,0 +1,18 @@
+{
+  "name": "discord.js_bot",
+  "version": "1.0.0",
+  "description": "O objetivo deste projeto é participar da criação de um Bot no Discord.js  Utilizando os conhecimentos adquiridos no Curso de Formação Acelerada em Programação (Back End) da SOFTEX.  Na primeira semana tive acesso ao material de estudo, composto por leitura e playlist de vídeos, para compreensão  das ferramentas para criação do Bot no Discord.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  },
+  "devDependencies": {
+    "eslint": "^9.9.1"
+  }
+}
